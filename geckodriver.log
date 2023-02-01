@@ -172,3 +172,57 @@ WebDriver BiDi listening on ws://127.0.0.1:50389
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileER8JC5\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:50389/devtools/browser/e9b69811-01a4-4245-b5b5-ebf78d5ef984
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
+1675289705905	Marionette	INFO	Stopped listening on port 50396
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofile8KMNgE"
+1675289705345	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675289705350	Marionette	INFO	Listening on port 50570
+WebDriver BiDi listening on ws://127.0.0.1:50561
+Read port: 50570
+1675289705532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofile8KMNgE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50561/devtools/browser/f72eb81e-4bb2-437e-a667-b779bf30d9be
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
+1675289719675	Marionette	INFO	Stopped listening on port 50570
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1675289766023	geckodriver	INFO	Listening on 127.0.0.1:50647
+1675289769056	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50648" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileVea5sc"
+1675289769453	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675289769458	Marionette	INFO	Listening on port 50657
+Read port: 50657
+WebDriver BiDi listening on ws://127.0.0.1:50648
+1675289769589	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileVea5sc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50648/devtools/browser/da549db9-126e-4b3e-972a-13b24472f157
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 568"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:568:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 568, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 568: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 568"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:568:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 568, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 568: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1675289803624	Marionette	INFO	Stopped listening on port 50657
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1675290371931	geckodriver	INFO	Listening on 127.0.0.1:62380
+1675290374975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62381" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileBaLLhd"
+1675290375576	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675290375584	Marionette	INFO	Listening on port 62393
+Read port: 62393
+WebDriver BiDi listening on ws://127.0.0.1:62381
+1675290375744	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileBaLLhd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62381/devtools/browser/2fc092ba-07e8-4c25-a468-f08166958040
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
