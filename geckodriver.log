@@ -1,0 +1,174 @@
+1675280309972	geckodriver	INFO	Listening on 127.0.0.1:51052
+1675280676459	geckodriver	INFO	Listening on 127.0.0.1:59765
+1675280679492	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59766" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofilemT1FXp"
+1675280679902	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675280679907	Marionette	INFO	Listening on port 59775
+Read port: 59775
+WebDriver BiDi listening on ws://127.0.0.1:59766
+1675280680040	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofilemT1FXp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59766/devtools/browser/4c894346-d510-4253-be66-5aeba57c13c6
+1675288519865	Marionette	INFO	Stopped listening on port 59775
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+\\Local\\Temp\\rust_mozprofilefREksm"
+1675280685208	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675280685213	Marionette	INFO	Listening on port 59831
+Read port: 59831
+WebDriver BiDi listening on ws://127.0.0.1:59792
+1675280685369	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofilefREksm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59792/devtools/browser/e3b1c3f0-4e0e-45a5-ad15-4f841a2a919a
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1675280688151	Marionette	INFO	Stopped listening on port 59831
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1675280707334	geckodriver	INFO	Listening on 127.0.0.1:59882
+1675280710377	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59883" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofilehqLO34"
+1675280710801	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675280710806	Marionette	INFO	Listening on port 59892
+Read port: 59892
+WebDriver BiDi listening on ws://127.0.0.1:59883
+1675280710945	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofilehqLO34\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59883/devtools/browser/85070586-5f65-4471-a620-824287fdcf3c
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1675280713424	Marionette	INFO	Stopped listening on port 59892
+Dynamically enable window occlusion 1
+[Parent 13400, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1675280725288	geckodriver	INFO	Listening on 127.0.0.1:59943
+1675280728357	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59944" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofile740r6b"
+1675280728759	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675280728764	Marionette	INFO	Listening on port 59953
+Read port: 59953
+WebDriver BiDi listening on ws://127.0.0.1:59944
+1675280728888	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofile740r6b\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59944/devtools/browser/6c7a9259-ccbb-4ff7-b196-9c8f10f62bf1
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1675280731209	Marionette	INFO	Stopped listening on port 59953
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+1675286315479	geckodriver	INFO	Listening on 127.0.0.1:60259
+1675286318524	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60260" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofile2mHOCI"
+1675286318925	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675286318930	Marionette	INFO	Listening on port 60268
+Read port: 60268
+WebDriver BiDi listening on ws://127.0.0.1:60260
+1675286319069	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofile2mHOCI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60260/devtools/browser/808cc1af-310a-4c93-ac8f-ad4e318ca17c
+1675286331298	Marionette	INFO	Stopped listening on port 60268
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 10980, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+1675286637115	geckodriver	INFO	Listening on 127.0.0.1:60501
+1675286640181	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60502" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileO2ieGg"
+1675286640586	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675286640591	Marionette	INFO	Listening on port 60511
+Read port: 60511
+WebDriver BiDi listening on ws://127.0.0.1:60502
+1675286640728	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileO2ieGg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60502/devtools/browser/e46f77ce-06bd-4560-a7b6-a2466c07557b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
+1675287614340	Marionette	INFO	Stopped listening on port 60511
+Dynamically enable window occlusion 1
+[Parent 14360, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1675287620773	geckodriver	INFO	Listening on 127.0.0.1:61144
+1675287623823	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61145" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileU1Z2Af"
+1675287624222	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675287624228	Marionette	INFO	Listening on port 61155
+Read port: 61155
+WebDriver BiDi listening on ws://127.0.0.1:61145
+1675287624361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileU1Z2Af\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61145/devtools/browser/670af53c-b083-45ce-a0ea-36b3433f54ba
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1675287626987	Marionette	INFO	Stopped listening on port 61155
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+1675287646240	geckodriver	INFO	Listening on 127.0.0.1:61223
+1675287649281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61224" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofilePtaKo4"
+1675287649675	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675287649681	Marionette	INFO	Listening on port 61233
+Read port: 61233
+WebDriver BiDi listening on ws://127.0.0.1:61224
+1675287649818	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofilePtaKo4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61224/devtools/browser/47016d1e-1471-4755-a5e9-c13d4330c15e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
+1675288496453	Marionette	INFO	Stopped listening on port 61233
+Dynamically enable window occlusion 1
+1675288908043	geckodriver	INFO	Listening on 127.0.0.1:50016
+1675288911124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50017" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileofvzkv"
+1675288911772	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675288911780	Marionette	INFO	Listening on port 50026
+Read port: 50026
+WebDriver BiDi listening on ws://127.0.0.1:50017
+1675288911937	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileofvzkv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50017/devtools/browser/5f63c0ee-85a9-44ff-b8a4-ef3811340658
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1675288914823	Marionette	INFO	Stopped listening on port 50026
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1675288925423	geckodriver	INFO	Listening on 127.0.0.1:50088
+1675288928448	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50089" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileXnLJTG"
+1675288928891	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675288928898	Marionette	INFO	Listening on port 50096
+WebDriver BiDi listening on ws://127.0.0.1:50089
+Read port: 50096
+1675288929173	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileXnLJTG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50089/devtools/browser/58427f81-cc64-489d-8f24-a7d4ca5e5f7d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
+1675288935761	Marionette	INFO	Stopped listening on port 50096
+Dynamically enable window occlusion 1
+1675288960082	geckodriver	INFO	Listening on 127.0.0.1:50175
+1675288963125	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50176" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofile4DehII"
+1675288963530	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675288963535	Marionette	INFO	Listening on port 50186
+Read port: 50186
+WebDriver BiDi listening on ws://127.0.0.1:50176
+1675288963663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofile4DehII\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50176/devtools/browser/3224d41f-31b1-4f1f-8298-65c5404aef56
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
+1675289466486	Marionette	INFO	Stopped listening on port 50181675289468545	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50389" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileER8JC5"
+1675289468953	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675289468960	Marionette	INFO	Listening on port 50396
+Read port: 50396
+WebDriver BiDi listening on ws://127.0.0.1:50389
+1675289469095	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileER8JC5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50389/devtools/browser/e9b69811-01a4-4245-b5b5-ebf78d5ef984
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
