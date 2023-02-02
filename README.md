@@ -1,14 +1,13 @@
-## Great_Lakes_Data
+### Great_Lakes_Data
 
-### Script Description
+## Script Description
 Scrapes from X, Y and Z.  
 
-### Script Walk-though
-
-
-<img src="name.gif" width="250" />
-
-## Required
+## Instructions to run script
 - [X] //
 - [ ] //
 
+
+## What the script should output
+
+<img src="name.gif" width="250" />
