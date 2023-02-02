@@ -226,3 +226,43 @@ WebDriver BiDi listening on ws://127.0.0.1:62381
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileBaLLhd\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:62381/devtools/browser/2fc092ba-07e8-4c25-a468-f08166958040
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
+1675301083390	geckodriver	INFO	Listening on 127.0.0.1:52100
+1675301086454	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52101" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofile32xjBZ"
+1675301086991	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675301086996	Marionette	INFO	Listening on port 52110
+Read port: 52110
+WebDriver BiDi listening on ws://127.0.0.1:52101
+1675301087080	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofile32xjBZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52101/devtools/browser/b32f36d4-a4e6-4fce-b921-b77e700da959
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1675347780053	Marionette	INFO	Stopped listening on port 52110
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Data\\Local\\Temp\\rust_mozprofileWqNAd7"
+1675301274224	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675301274232	Marionette	INFO	Listening on port 52228
+Read port: 52228
+WebDriver BiDi listening on ws://127.0.0.1:52217
+1675301274360	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileWqNAd7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52217/devtools/browser/6a1be99a-7517-434e-86c7-cd65780db95f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
+1675301282265	Marionette	INFO	Stopped listening on port 52228
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1675301293158	geckodriver	INFO	Listening on 127.0.0.1:52308
+1675301296217	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52309" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileyPQrhk"
+1675301296629	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675301296636	Marionette	INFO	Listening on port 52318
+Read port: 52318
+WebDriver BiDi listening on ws://127.0.0.1:52309
+1675301296762	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileyPQrhk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52309/devtools/browser/669bd6c7-27af-4bed-96c8-984280a977e2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\justi\AppData\Local\Temp\rust_mozprofileyPQrhk\bookmarkbackups\bookmarks-2023-02-01_11_QTOxuFhjX9Zaj4HK-P2nHA==.jsonlz4) because it does not exist
