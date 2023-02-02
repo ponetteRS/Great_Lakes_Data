@@ -266,3 +266,17 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 DevTools listening on ws://127.0.0.1:52309/devtools/browser/669bd6c7-27af-4bed-96c8-984280a977e2
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
 JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\justi\AppData\Local\Temp\rust_mozprofileyPQrhk\bookmarkbackups\bookmarks-2023-02-01_11_QTOxuFhjX9Zaj4HK-P2nHA==.jsonlz4) because it does not exist
+1675347826291	geckodriver	INFO	Listening on 127.0.0.1:58118
+1675347829335	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58119" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileAPreFp"
+1675347829790	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675347829795	Marionette	INFO	Listening on port 58128
+Read port: 58128
+WebDriver BiDi listening on ws://127.0.0.1:58119
+1675347829989	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileAPreFp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58119/devtools/browser/e5296556-af32-40f8-a034-3a8836bae8c6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
+1675348199975	Marionette	INFO	Stopped listening on port 58128
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
