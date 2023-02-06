@@ -650,3 +650,268 @@ WebDriver BiDi listening on ws://127.0.0.1:58145
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileipNZHx\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:58145/devtools/browser/3290af5d-438b-4c2f-84b2-154f91aaa422
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+1675366558530	Marionette	INFO	Stopped listening on port 58156
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileuSex6X"
+1675366408376	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675366408381	Marionette	INFO	Listening on port 65369
+WebDriver BiDi listening on ws://127.0.0.1:65358
+Read port: 65369
+1675366408643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileuSex6X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65358/devtools/browser/54175c85-c4af-49f4-bf46-bd7327ffc39b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
+1675366559539	Marionette	INFO	Stopped listening on port 65369
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileJz9j8h"
+1675366447544	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675366447549	Marionette	INFO	Listening on port 65478
+Read port: 65478
+WebDriver BiDi listening on ws://127.0.0.1:65468
+1675366447681	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileJz9j8h\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65468/devtools/browser/573f5fde-0212-440b-8077-3b1812d81152
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
+1675366561005	Marionette	INFO	Stopped listening on port 65478
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1675366563778	geckodriver	INFO	Listening on 127.0.0.1:49241
+1675366566834	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49242" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofile10iUq5"
+1675366567233	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675366567241	Marionette	INFO	Listening on port 49253
+Read port: 49253
+WebDriver BiDi listening on ws://127.0.0.1:49242
+1675366567360	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofile10iUq5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49242/devtools/browser/660869fb-39c8-4f34-ac52-7c949b9213c1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+1675367067152	Marionette	INFO	Stopped listening on port 49253
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileV3XsJD"
+1675367067152	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675367067161	Marionette	INFO	Listening on port 49677
+Read port: 49677
+WebDriver BiDi listening on ws://127.0.0.1:49658
+1675367067336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileV3XsJD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49658/devtools/browser/63d30dca-320b-4305-bf7d-46b39e05b147
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
+1675367424202	Marionette	INFO	Stopped listening on port 49677
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileQJllHz"
+1675367182731	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675367182738	Marionette	INFO	Listening on port 49840
+Read port: 49840
+WebDriver BiDi listening on ws://127.0.0.1:49830
+1675367182863	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileQJllHz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49830/devtools/browser/c5355382-76d2-4605-b4af-9202c6f1dcfd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
+1675367425994	Marionette	INFO	Stopped listening on port 49840
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofilewnj1UV"
+1675367419521	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675367419530	Marionette	INFO	Listening on port 50122
+WebDriver BiDi listening on ws://127.0.0.1:50108
+Read port: 50122
+1675367419783	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofilewnj1UV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50108/devtools/browser/f8f623f6-bb21-4ffd-85e6-931de01baee8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
+1675367662518	Marionette	INFO	Stopped listening on port 50122
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofile1TiUPN"
+1675367623431	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675367623437	Marionette	INFO	Listening on port 50316
+Read port: 50316
+WebDriver BiDi listening on ws://127.0.0.1:50306
+1675367623575	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofile1TiUPN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50306/devtools/browser/3fc60268-c7cc-42e3-b6eb-ce7341455360
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
+1675367629613	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1675367666284	Marionette	INFO	Stopped listening on port 50316
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1675367669094	geckodriver	INFO	Listening on 127.0.0.1:50415
+1675367672158	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50416" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileS5TOeP"
+1675367672549	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675367672553	Marionette	INFO	Listening on port 50427
+Read port: 50427
+WebDriver BiDi listening on ws://127.0.0.1:50416
+1675367672680	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileS5TOeP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50416/devtools/browser/4de571b1-d5eb-441a-ba0e-ef6d7fac9b80
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
+1675367692068	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\justi\AppData\Local\Temp\rust_mozprofileS5TOeP\bookmarkbackups\bookmarks-2023-02-02.jsonlz4) because it does not exist
+1675376335766	Marionette	INFO	Stopped listening on port 50427
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+n 0
+1675367837550	Marionette	INFO	Listening on port 50631
+Read port: 50631
+WebDriver BiDi listening on ws://127.0.0.1:50610
+1675367837684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofilernxrJS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50610/devtools/browser/87793ad1-f8fc-4681-9270-3917c21a1bcc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\justi\AppData\Local\Temp\rust_mozprofilernxrJS\bookmarkbackups\bookmarks-2023-02-02.jsonlz4) because it does not exist
+1675376333998	Marionette	INFO	Stopped listening on port 50631
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1675376417495	geckodriver	INFO	Listening on 127.0.0.1:51296
+1675376420529	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51297" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileWOzVHH"
+1675376420948	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675376420954	Marionette	INFO	Listening on port 51306
+Read port: 51306
+WebDriver BiDi listening on ws://127.0.0.1:51297
+1675376421084	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileWOzVHH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51297/devtools/browser/61129ec9-c23d-4466-999f-36ceb4d09eb7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
+1675378723233	Marionette	INFO	Stopped listening on port 51306
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofile5YnqU7"
+1675376500923	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675376500928	Marionette	INFO	Listening on port 52183
+Read port: 52183
+WebDriver BiDi listening on ws://127.0.0.1:52174
+1675376501062	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofile5YnqU7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52174/devtools/browser/380c2577-37bc-4fe7-bef9-014f4caaba3f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
+1675378722435	Marionette	INFO	Stopped listening on port 52183
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofilesEAs9A"
+1675376541354	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675376541361	Marionette	INFO	Listening on port 52293
+Read port: 52293
+WebDriver BiDi listening on ws://127.0.0.1:52283
+1675376541495	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofilesEAs9A\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52283/devtools/browser/ca1dfed4-1eb1-4c4f-8da5-fe925eece5ba
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
+1675378721821	Marionette	INFO	Stopped listening on port 52293
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileFWqdNp"
+1675376673300	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675376673308	Marionette	INFO	Listening on port 52453
+Read port: 52453
+WebDriver BiDi listening on ws://127.0.0.1:52443
+1675376673445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileFWqdNp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52443/devtools/browser/aacbbef5-0252-49a8-bb90-a9acbee344c7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 568"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:568:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 568, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 568: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 568"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:568:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 568, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 568: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1675378721072	Marionette	INFO	Stopped listening on port 52453
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1675379682803	geckodriver	INFO	Listening on 127.0.0.1:49669
+1675379685840	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49670" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofilezYA9N2"
+1675379686274	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675379686279	Marionette	INFO	Listening on port 49684
+WebDriver BiDi listening on ws://127.0.0.1:49670
+Read port: 49684
+1675379686584	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofilezYA9N2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49670/devtools/browser/3d962bfe-7d8f-448c-9e11-769b859a3114
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
+1675379785217	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1675379911875	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1675379951807	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1675380510505	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1675380596889	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1675380681848	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1675380724369	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1675380917804	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1675380955484	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1675381470960	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
