@@ -1511,3 +1511,33 @@ JavaScript error: resource://gre/modules/FinderHighlighter.sys.mjs, line 619: Ty
 JavaScript error: resource://gre/modules/FinderHighlighter.sys.mjs, line 619: TypeError: controller is null
 JavaScript error: resource://gre/modules/FinderHighlighter.sys.mjs, line 619: TypeError: controller is null
 JavaScript warning: https://pagead2.googlesyndication.com/bg/enP75FOAOR6Dv0_xbsOpJb6_RhPRjbOZFZcWOHt7fp4.js line 2 > eval line 3295 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675986205610	geckodriver	INFO	Listening on 127.0.0.1:53356
+1675986208658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53357" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileesEZHY"
+1675986209074	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675986209079	Marionette	INFO	Listening on port 53364
+Read port: 53364
+WebDriver BiDi listening on ws://127.0.0.1:53357
+1675986209218	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileesEZHY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53357/devtools/browser/279fe302-dfd0-47ef-806f-451db5474e9d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/enP75FOAOR6Dv0_xbsOpJb6_RhPRjbOZFZcWOHt7fp4.js line 2 > eval line 1645 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675986657909	geckodriver	INFO	Listening on 127.0.0.1:53673
+1675986660962	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53674" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileatOhuW"
+1675986661387	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675986661392	Marionette	INFO	Listening on port 53681
+Read port: 53681
+WebDriver BiDi listening on ws://127.0.0.1:53674
+1675986661527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileatOhuW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53674/devtools/browser/b4cc8345-7407-4e66-8fba-cb31a09a7246
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
