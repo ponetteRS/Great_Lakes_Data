@@ -3016,3 +3016,294 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 DevTools listening on ws://127.0.0.1:51126/devtools/browser/b79d8281-bee9-4bbb-be8e-af5f83c951fa
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quod.lib.umich.edu."
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1678649849359	geckodriver	INFO	Listening on 127.0.0.1:64032
+1678649852408	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64033" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofilehYtllt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678649853004	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678649853010	Marionette	INFO	Listening on port 64043
+Read port: 64043
+WebDriver BiDi listening on ws://127.0.0.1:64033
+1678649853159	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofilehYtllt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64033/devtools/browser/66545244-c155-4c10-b0cb-4dc5b491a3b2
+1678649856903	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+new_send@https://bellatlas.umn.edu/lib/csrfp/js/csrfprotector.js:244:15
+urlExists@https://bellatlas.umn.edu/js/symb/api.taxonomy.taxasuggest.js?ver=3:79:10
+@https://bellatlas.umn.edu/js/symb/api.taxonomy.taxasuggest.js?ver=3:7:9
+j@https://bellatlas.umn.edu/js/jquery-3.2.1.min.js?ver=3:2:29999
+Deferred/then/g/</k<@https://bellatlas.umn.edu/js/jquery-3.2.1.min.js?ver=3:2:30313
+1678649910543	Marionette	INFO	Stopped listening on port 64043
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1678649912416	geckodriver	INFO	Listening on 127.0.0.1:64116
+1678649915460	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64117" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileQcAX6X"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678649915892	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678649915897	Marionette	INFO	Listening on port 64126
+Read port: 64126
+WebDriver BiDi listening on ws://127.0.0.1:64117
+1678649916026	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileQcAX6X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64117/devtools/browser/4c180888-3448-4aab-978b-a61930287105
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+1678649946553	Marionette	INFO	Stopped listening on port 64126
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1678649948200	geckodriver	INFO	Listening on 127.0.0.1:64188
+1678649951252	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64189" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileZFQc0X"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678649951685	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678649951691	Marionette	INFO	Listening on port 64198
+Read port: 64198
+WebDriver BiDi listening on ws://127.0.0.1:64189
+1678649951832	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileZFQc0X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64189/devtools/browser/f4f41860-6039-4445-9154-fb780c160d4c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+1678649955286	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1678649966243	Marionette	INFO	Stopped listening on port 64198
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1678649967992	geckodriver	INFO	Listening on 127.0.0.1:64256
+1678649971043	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64257" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileQQSkvh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678649971489	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678649971494	Marionette	INFO	Listening on port 64266
+WebDriver BiDi listening on ws://127.0.0.1:64257
+Read port: 64266
+1678649971747	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileQQSkvh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64257/devtools/browser/c757d8f6-f15e-4802-863a-65b48c9e41fc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+1678649987580	Marionette	INFO	Stopped listening on port 64266
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1678649989348	geckodriver	INFO	Listening on 127.0.0.1:64323
+1678649992409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64324" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofilexkerPU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678649992855	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678649992860	Marionette	INFO	Listening on port 64334
+WebDriver BiDi listening on ws://127.0.0.1:64324
+Read port: 64334
+1678649993156	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofilexkerPU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64324/devtools/browser/bf4019da-55b4-43d5-a5fd-9abab9da17ba
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+1678650012563	Marionette	INFO	Stopped listening on port 64334
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1678650014442	geckodriver	INFO	Listening on 127.0.0.1:64391
+1678650017504	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64392" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofilezZjAmi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678650017944	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678650017949	Marionette	INFO	Listening on port 64402
+WebDriver BiDi listening on ws://127.0.0.1:64392
+Read port: 64402
+1678650018204	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofilezZjAmi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64392/devtools/browser/341541fa-43dc-4e32-8f42-14a16cb84876
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+1678650022490	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+urlExists@https://bellatlas.umn.edu/js/symb/api.taxonomy.taxasuggest.js?ver=3:79:10
+@https://bellatlas.umn.edu/js/symb/api.taxonomy.taxasuggest.js?ver=3:7:9
+j@https://bellatlas.umn.edu/js/jquery-3.2.1.min.js?ver=3:2:29999
+Deferred/then/g/</k<@https://bellatlas.umn.edu/js/jquery-3.2.1.min.js?ver=3:2:30313
+1678650034548	Marionette	INFO	Stopped listening on port 64402
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1678650036234	geckodriver	INFO	Listening on 127.0.0.1:64471
+1678650039299	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64472" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileokrTPW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678650039739	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678650039747	Marionette	INFO	Listening on port 64482
+Read port: 64482
+WebDriver BiDi listening on ws://127.0.0.1:64472
+1678650039890	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileokrTPW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64472/devtools/browser/bd3f8284-cb5c-46bf-8842-b1f897f6d93d
+1678650043189	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+urlExists@https://bellatlas.umn.edu/js/symb/api.taxonomy.taxasuggest.js?ver=3:79:10
+@https://bellatlas.umn.edu/js/symb/api.taxonomy.taxasuggest.js?ver=3:7:9
+j@https://bellatlas.umn.edu/js/jquery-3.2.1.min.js?ver=3:2:29999
+Deferred/then/g/</k<@https://bellatlas.umn.edu/js/jquery-3.2.1.min.js?ver=3:2:30313
+1678650044055	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+urlExists@https://bellatlas.umn.edu/js/symb/api.taxonomy.taxasuggest.js?ver=3:79:10
+@https://bellatlas.umn.edu/js/symb/api.taxonomy.taxasuggest.js?ver=3:7:9
+j@https://bellatlas.umn.edu/js/jquery-3.2.1.min.js?ver=3:2:29999
+Deferred/then/g/</k<@https://bellatlas.umn.edu/js/jquery-3.2.1.min.js?ver=3:2:30313
+1678650053102	Marionette	INFO	Stopped listening on port 64481678650054491	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64537" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofile293qoM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678650054931	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678650054935	Marionette	INFO	Listening on port 64547
+Read port: 64547
+WebDriver BiDi listening on ws://127.0.0.1:64537
+1678650055074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofile293qoM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64537/devtools/browser/c41000cd-3e95-49a0-a404-be18a0c659e3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+1678650059274	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+urlExists@https://bellatlas.umn.edu/js/symb/api.taxonomy.taxasuggest.js?ver=3:79:10
+@https://bellatlas.umn.edu/js/symb/api.taxonomy.taxasuggest.js?ver=3:7:9
+j@https://bellatlas.umn.edu/js/jquery-3.2.1.min.js?ver=3:2:29999
+Deferred/then/g/</k<@https://bellatlas.umn.edu/js/jquery-3.2.1.min.js?ver=3:2:30313
+1678650087741	Marionette	INFO	Stopped listening on port 64547
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1678650091417	geckodriver	INFO	Listening on 127.0.0.1:64618
+1678650094475	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64619" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileKNzh9m"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678650094932	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678650094938	Marionette	INFO	Listening on port 64629
+Read port: 64629
+WebDriver BiDi listening on ws://127.0.0.1:64619
+1678650095121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileKNzh9m\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64619/devtools/browser/f50e693b-6c3d-4853-be43-407d765ad1ac
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+1678650149854	Marionette	INFO	Stopped listening on port 64629
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 22848, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+1678650152147	geckodriver	INFO	Listening on 127.0.0.1:64700
+1678650155169	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64701" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileUxcdJT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678650155650	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678650155654	Marionette	INFO	Listening on port 64711
+Read port: 64711
+WebDriver BiDi listening on ws://127.0.0.1:64701
+1678650155798	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileUxcdJT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64701/devtools/browser/fc10d422-32d6-448d-8fc5-929693f2322f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+1678650222435	Marionette	INFO	Stopped listening on port 64711
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1678650224233	geckodriver	INFO	Listening on 127.0.0.1:64794
+1678650227289	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64795" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofilewDAM33"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678650227750	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678650227755	Marionette	INFO	Listening on port 64804
+Read port: 64804
+WebDriver BiDi listening on ws://127.0.0.1:64795
+1678650227924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofilewDAM33\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64795/devtools/browser/d739a94c-966f-4f67-b717-9c0b58bba93e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+1678650245866	Marionette	INFO	Stopped listening on port 64804
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1678650253785	geckodriver	INFO	Listening on 127.0.0.1:64863
+1678650256828	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64864" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofilewQOKzF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678650257284	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678650257289	Marionette	INFO	Listening on port 64873
+Read port: 64873
+WebDriver BiDi listening on ws://127.0.0.1:64864
+1678650257433	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofilewQOKzF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64864/devtools/browser/6d50591a-5f9d-4337-bb54-c1eac9275688
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+1678650315363	Marionette	INFO	Stopped listening on port 64873
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofilev64tOQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678650299549	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678650299554	Marionette	INFO	Listening on port 64952
+WebDriver BiDi listening on ws://127.0.0.1:64941
+Read port: 64952
+1678650299810	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofilev64tOQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64941/devtools/browser/b6201116-4fbc-42f1-8f50-9ac69e0daa0a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+1678650314374	Marionette	INFO	Stopped listening on port 64952
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1678650323511	geckodriver	INFO	Listening on 127.0.0.1:65026
+1678650326549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65027" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofiledb6p3W"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678650326989	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678650326994	Marionette	INFO	Listening on port 65036
+Read port: 65036
+WebDriver BiDi listening on ws://127.0.0.1:65027
+1678650327162	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofiledb6p3W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65027/devtools/browser/1e5535e1-665d-49f8-bcdf-5277030ac539
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+1678668887992	Marionette	INFO	Stopped listening on port 65036
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
