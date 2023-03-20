@@ -3307,3 +3307,32 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 1678668887992	Marionette	INFO	Stopped listening on port 65036
 Dynamically enable window occlusion 1
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1678921322403	geckodriver	INFO	Listening on 127.0.0.1:63101
+1678921325456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63102" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileyAyJqo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678921326101	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678921326107	Marionette	INFO	Listening on port 63112
+Read port: 63112
+WebDriver BiDi listening on ws://127.0.0.1:63102
+1678921326271	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileyAyJqo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63102/devtools/browser/695ae877-615c-4850-aedd-90097bc5b7c1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+1678938804249	Marionette	INFO	Stopped listening on port 63112
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 15696, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
