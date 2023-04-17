@@ -7531,3 +7531,138 @@ urlExists@https://bellatlas.umn.edu/js/symb/api.taxonomy.taxasuggest.js?ver=3:79
 j@https://bellatlas.umn.edu/js/jquery-3.2.1.min.js?ver=3:2:29999
 Deferred/then/g/</k<@https://bellatlas.umn.edu/js/jquery-3.2.1.min.js?ver=3:2:30313
 Shutting down due to socket process crash.
+1681688159101	geckodriver	INFO	Listening on 127.0.0.1:54039
+1681688162146	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54040" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileFXU4md"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681688162568	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681688162574	Marionette	INFO	Listening on port 54047
+Read port: 54047
+WebDriver BiDi listening on ws://127.0.0.1:54040
+1681688162711	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileFXU4md\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54040/devtools/browser/f4f557bc-7c26-4073-84eb-6c76ce8bb18d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+Shutting down due to socket process crash.
+1681688766222	geckodriver	INFO	Listening on 127.0.0.1:54492
+1681688769269	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54493" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileTacQsJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681688769682	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681688769690	Marionette	INFO	Listening on port 54500
+Read port: 54500
+WebDriver BiDi listening on ws://127.0.0.1:54493
+1681688769813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofileTacQsJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54493/devtools/browser/b8efc226-d3b1-462f-9be7-70eb7a05f1e6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bellatlas.umn.edu."
