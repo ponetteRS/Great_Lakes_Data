@@ -7,7 +7,7 @@ import pandas as pd
 
 
 #read glansis tracking into csv, has species list to query
-#automation step: file editable to client
+#needs changes to work
 tracking = pd.read_csv("/Users/madelinetrumbauer/Local Desktop/F '21/SI 485/Tracking.csv")
 
 #store Scientific Name in tracking as list called species
@@ -20,15 +20,13 @@ bulk = pd.read_csv("/Users/madelinetrumbauer/Local Desktop/F '21/SI 485/bulk.csv
 
 #create dataframe to store smithsonian data 
 smithsonian_df= pd.concat([bulk, tracking['Scientific Name']])
-#print(smithsonian_df)
-#print(smithsonian_df)
 
 #change index col, species, to the name species
 smithsonian_df.rename(columns={0:"species"}, inplace = True)
 
 #drop first row of text descriptions of each column
 smithsonian_df = smithsonian_df.tail(-1)
-#print(smithsonian_df)
+
 
 
 #narrows output table df to only mandatory columns
@@ -36,8 +34,6 @@ smithsonian_df = smithsonian_df.tail(-1)
 #smithsonian_table= smithsonian_df[['species', 'Genus*', 'Species*', 'Latitude*', 'Source*', 'Accuracy*', 'Locality*']]
 #print(smithsonian_table.columns)
 
-#add 'scientific name' as column
-#smithsonian_table['scientific_name'] = ""
 
 #searches for a species with the Smithsonian 'search' API returns the text of the whole query result
 def make_a_query(key,query):
@@ -77,9 +73,6 @@ def scientific_name(result):
 
 #get latitude and longitude of species
 #def latlong(first_result):
-
-
-
 
 #get locality  description and store in dictionary
 def locality(first_result):
@@ -156,6 +149,39 @@ def location(first_result):
         else:
             location_dict[i] = float("NaN")
     return location_dict
+
+#latitude dict
+def latitude(first_result):
+    latitude_dict = {}
+    for i in range(len(first_result['response']['rows'])):
+        if'geoLocation' in first_result['response']['rows'][i]['content']['indexedStructured']:
+            if 'points' in first_result['response']['rows'][i]['content']['indexedStructured']['geoLocation'][0]:
+                latitude = first_result['response']['rows'][i]['content']['indexedStructured']['geoLocation'][0]['points']['point']['latitude']['content']
+                latitude_string = json.dumps(latitude)
+                latitude_dict[i] = latitude_string
+            else:
+                latitude_dict[i] = float("NaN")
+        else:
+            latitude_dict[i] =float("NaN")
+    return latitude_dict
+
+#longitude
+def longitude(first_result):
+    longitude_dict = {}
+    for i in range(len(first_result['response']['rows'])):
+        if'geoLocation' in first_result['response']['rows'][i]['content']['indexedStructured']:
+            if 'points' in first_result['response']['rows'][i]['content']['indexedStructured']['geoLocation'][0]:
+                longitude = first_result['response']['rows'][i]['content']['indexedStructured']['geoLocation'][0]['points']['point']['longitude']['content']
+                longitude_string = json.dumps(longitude)
+                longitude_dict[i] = longitude_string
+            else:
+                longitude_dict[i] =float("NaN")
+        else:
+            longitude_dict[i] =float("NaN")
+    return longitude_dict
+             
+
+#longitude
 #potentially zip with locality before inserting into GLANSIS spreadsheet
 
 
@@ -181,50 +207,93 @@ def year(first_result):
 
 def main():
     #smithsonian to build df
-    intermediary_df = pd.DataFrame(columns = ['species', 'title', 'locality', 'location', 'year'])
-    # cool = make_a_query('11icycZDd63MfM3OrfwyQwrpJatRz5mFy37cnBo6',smithsonian_df['species'])
-    # #^to test do .iloc[2]
-    # species_title = title(cool)
-    # species_locality = locality(cool)
-    # species_location = location(cool)
-    # species_year = year(cool)
-    # # # of rows already rows in the intermediary_df + j in square
-    # for j in range(len(species_title)):
-    #     intermediary_df = intermediary_df.append({'species': species_title[j], 'title':species_title[j], 'locality':species_locality[j], 'location': species_location[j], 'year':species_year[j]}, ignore_index=True)
-    # print(intermediary_df)
-    # intermediary_df.to_csv('intermediary_df_full.csv')
-    # print(species_title)
-    #cool = make_a_query('11icycZDd63MfM3OrfwyQwrpJatRz5mFy37cnBo6', smithsonian_df['species'].iloc[10])
-    #print(scientific_name(cool))
-    #print(cool)
-    #print(locality(cool)) #first locality function
-    #print(location(cool)) #second locality function
-    #print(year(cool))
-    # for i in smithsonian_df['species']:
-    #     cool = make_a_query('11icycZDd63MfM3OrfwyQwrpJatRz5mFy37cnBo6', i) #saved as a json object. it is the file
-    #     get_scientific_name(cool)
-    # smithsonian_df
+    intermediary_df = pd.DataFrame(columns = ['species', 'title', 'Latitude*', 'Longitude*', 'locality', 'location', 'year', 'Source*', "Accuracy*", "Year Accuracy of Specimen","Record Type", "Genus", "Sp" ])
 
-    #build intermediary dataframe
-    #i, scientific name, locality, location, year
-    #GOOOOOOOD
-    # intermediary_df = pd.DataFrame(columns = ['species', 'title', 'locality', 'location', 'year'])
     # # #loop through species
     for i in smithsonian_df['species']:
         cool = make_a_query('11icycZDd63MfM3OrfwyQwrpJatRz5mFy37cnBo6', i)
-       
+    
         species_title = title(cool)
         species_locality = locality(cool)
         species_location = location(cool)
+        species_longitude = longitude(cool)
+        species_latitude = latitude(cool)
         species_year = year(cool)
     # # of rows already rows in the intermediary_df + j in square
         for j in species_title:
-            intermediary_df = intermediary_df.append({'species': i, 'title':species_title[j], 'locality':species_locality[j], 'location': species_location[j], 'year':species_year[j]}, ignore_index=True)
-        print(intermediary_df.info())
-        
-    print(intermediary_df.info())
-         # IMPORTANT for script
-    print(intermediary_df)
+            intermediary_df = intermediary_df.append({'species': i, 'title':species_title[j], 'locality':species_locality[j], 'location': species_location[j], 'Latitude*': species_latitude[j], 'Longitude*': species_longitude[j], 'year':species_year[j]}, ignore_index=True)
+    
+    #create Source* need to test
+    for i in range(len(intermediary_df)):
+        if type(intermediary_df['Latitude*'].iloc[i]) is not float:
+            intermediary_df['Source*'].iloc[i] = 'Reported'
+        elif type(intermediary_df['location'].iloc[i]) is not float:
+            intermediary_df['Source*'].iloc[i] = 'GNIS'
+        elif type(intermediary_df['locality'].iloc[i]) is not float:
+            intermediary_df['Source*'].iloc[i] = 'Map derived'
+        else:
+            intermediary_df['Source*'].iloc[i] = float("NaN")
+
+    #create accuracy
+    for i in range(len(intermediary_df)):
+        if intermediary_df['Source*'].iloc[i] == "Reported":
+            intermediary_df['Accuracy*'].iloc[i] = "Accurate"
+        elif intermediary_df['Source*'].iloc[i] == "GNIS":
+            intermediary_df['Accuracy*'].iloc[i] = "Accurate"
+        elif intermediary_df['Source*'].iloc[i] == "Map derived":
+            intermediary_df['Accuracy*'].iloc[i] = "Approximate"
+        else:
+            intermediary_df['Accuracy*'].iloc[i] = float("NaN")
+    #done
+
+    #YEAR ACCURACY OF SPECIMEN AND RECORD TYPE
+    intermediary_df['Year Accuracy of Specimen'] = 'Estimated'
+    intermediary_df['Record Type'] = 'specimen'
+
+
+    #combine location and locality
+    intermediary_df['new_column'] = intermediary_df['locality'].astype(str) + intermediary_df['location'].astype(str)
+    #set up new df
+    final_df = pd.DataFrame(columns = ['NAS Species ID', 'Genus*', 'Species*', 'subspecies', 'Latitude*', 'Longitude*', 'Source*', 'Accuracy*', 'Locality*', 'Protected Area', 'Year*', 'Month', 'Day', 'Collectors', 'Gear', 'Contact', 'Pathway 1', 'Pathway 2', 'Pathway 3', 
+                                              'Status', 'Reference ID*', 'Reference 2', 'Reference 3', 'Comments', 'Record Type*', 'Earliest Record', 'Year Accuracy of specimen*', 'Disposal', 'Museum Catalog Number', 'Verifier', 'UUID', 'Year Verified', 'Stock source', 'Introduction', 'Number Stocked', 'Number preserved', 'Number dead', 'Number of juveniles', 
+                                               'Number of females', 'Number of Breeding females', 'Number of breeding males', 'Impact', 'Internal comments'])
+    
+    #remove quotes from title
+    intermediary_df['title'] = intermediary_df['title'].str.replace('"', "")
+    #break genus and species up to store in final formatted dataframe
+    final_df['Genus*']= intermediary_df['title'].str.split(" ", 1, expand=True)[0]
+    final_df['Species*']= intermediary_df['title'].str.split(" ", 1, expand=True)[1]
+    final_df['Species*'] = final_df['Species*'].str.split(" ", 1, expand=True)[0]
+
+    #input data in the rest of the dataframe
+    final_df['Latitude*'] = intermediary_df['Latitude*']
+    final_df['Longitude*'] = intermediary_df['Longitude*']
+    final_df['Source*'] = intermediary_df['Source*']
+    final_df['Accuracy*'] = intermediary_df['Accuracy*']
+    final_df['Year Accuracy of specimen*'] = intermediary_df['Year Accuracy of Specimen']
+    final_df['Record Type*'] = intermediary_df['Record Type']
+    final_df['Year*'] = intermediary_df['year']
+    final_df['Locality*'] = intermediary_df['new_column']
+
+    #remove " from lat and long
+    final_df['Latitude*'] = final_df['Latitude*'].str.replace('"', "")
+    final_df['Longitude*'] = final_df['Longitude*'].str.replace('"', "")
+
+    #remove bracket and " from year
+    # final_df['Year*'] = final_df['Year*'].astype(str).str.replace("[", "")
+    # final_df['Year*'] = final_df['Year*'].astype(str).str.replace("]", "")
+    # final_df['Year*'] = final_df['Year*'].astype(str).str.replace("'", "")
+
+    #remove ( ) and " from Locality
+    # final_df['Locality*'] = final_df['Locality*'].astype(str).str.replace("(", "")
+    # final_df['Locality*'] = final_df['Locality*'].astype(str).str.replace(")", "")
+    # final_df['Locality*'] = final_df['Locality*'].astype(str).str.replace('"', "")
+
+
+    MI_values = final_df[final_df['Locality*'].astype(str).str.contains('Michigan|Wisconsin|Illinois|Indiana|Minnesota|Ohio|Pennsylvania|New York')]
+
+    final_df.to_csv('final.csv')
+    MI_values.to_csv('MI_values.csv')
     intermediary_df.to_csv('intermediary_df2.csv')
         # US_df = intermediary_df[intermediary_df['locality'].str.contains('United States|Canada')]
         # print(US_df)
